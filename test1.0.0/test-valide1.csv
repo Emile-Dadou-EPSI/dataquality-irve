@@ -1,0 +1,3 @@
+n_amenageur,n_operateur,n_enseigne,id_station,n_station,ad_station,code_insee,Xlongitude,Ylatitude,nbre_pdc,id_pdc,puiss_max,type_prise,acces_recharge,accessibilité,observations,date_maj
+Société X,Entité Y,Réseau de recharge ABC,FR*A68*P68021*A,Belleville,1 avenue de la Paix 75001 Paris,2B002,7.48710500,47.63495500,10,FR*A68*E68021*A*B1*D,22.00,T2,Payant,24/24 7/7 jours,Recharge uniquement disponible pendant les horaires d'ouverture du Centre Commercial XY,2018/08/08
+Société X,,Réseau de recharge ABC,FR*A68*P68021*A,Belleville,1 avenue de la Paix 75001 Paris,2B002,7.48710500,47.63495500,10,FR*A68*E68021*A*B1*D,22.00,T2,Payant,24/24 7/7 jours,Recharge uniquement disponible pendant les horaires d'ouverture du Centre Commercial XY,

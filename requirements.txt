@@ -1,0 +1,9 @@
+pandas
+matplotlib
+numpy
+seaborn
+pyspark
+runipy
+requests
+
+            const indigoApi = "https://api.fr.parkindigo.com/api/"
